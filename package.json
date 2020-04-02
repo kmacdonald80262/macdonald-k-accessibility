@@ -1,0 +1,31 @@
+{
+  "name": "accessible",
+  "version": "1.0.0",
+  "description": "node",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "keywords": [
+    "classes",
+    "node",
+    "javascript"
+  ],
+  "author": "KAT",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "debug": "^4.1.1",
+    "express": "^4.17.1",
+    "gsap": "^3.0.2",
+    "hbs": "^4.0.6",
+    "http-errors": "^1.7.3",
+    "morgan": "^1.9.1",
+    "mysql": "^2.17.1",
+    "waypoints": "^4.0.1"
+  }
+}
